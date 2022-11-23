@@ -189,3 +189,7 @@
     }
 }
 
+div button{
+    cursor: pointer;
+    border: none;
+}
